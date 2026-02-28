@@ -137,6 +137,4 @@ https://www.linkedin.com/in/joaomanoelfmn
 
 ## 🐍 Contribution Snake
 
-## 🐍 Contribution Snake
-
 ![snake](https://raw.githubusercontent.com/JoaoManoelFMN/JoaoManoelFMN/output/github-contribution-grid-snake.svg)
