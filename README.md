@@ -1,10 +1,10 @@
 # João Manoel
 
-💻 **Software Engineering Student** focused on **Backend Development, Cybersecurity, and Systems Programming**.
+💻 **Computer Science Student** focused on **Backend Development, Cybersecurity, and Systems Programming**.
 
 I enjoy building practical projects to deepen my understanding of **software architecture, security, and low-level systems**.
 
-🎓 Software Engineering — **IDP (Instituto de Direito Público)**
+🎓 Software Engineering — **IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)**
 📍 Brasília, Brazil
 
 ---
