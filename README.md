@@ -1,6 +1,6 @@
 # João Manoel
 
-💻 **Computer Science Student** focused on **Backend Development, Cybersecurity, and Systems Programming**.
+💻 **Computer Science Student** focused on **Cybersecurity & Software Engeneering**.
 
 I enjoy building practical projects to deepen my understanding of **software architecture, security, and low-level systems**.
 
@@ -13,64 +13,51 @@ I enjoy building practical projects to deepen my understanding of **software arc
 
 ### 💻 Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-Languages used in backend development, systems programming and data processing.
+| Category | Languages |
+| :--- | :--- |
+| **Systems & Low-Level** | C, C++ |
+| **Backend & Scripting** | Java, Python, Shell Script |
+| **Web Development** | TypeScript, JavaScript |
+| **Database** | SQL |
 
 ---
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge\&logo=prisma\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-
-Experience developing backend services and APIs, including:
-
-* REST API design
-* Business logic implementation
-* Database modeling
-* ORM integration
-* API route structuring and controllers
+* **Frameworks & ORMs:** NestJS, Prisma
+* **Databases:** PostgreSQL
+* **Architecture:** RESTful API design, relational database modeling, and secure authentication flows
 
 ---
 
-### 🔐 Security & Systems
+### 🔐 Security & Systems Fundamentals
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Kali](https://img.shields.io/badge/Kali_Linux-268BEE?style=for-the-badge\&logo=kalilinux\&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-214478?style=for-the-badge)
-
-Hands-on practice with cybersecurity and networking concepts:
-
-* Network protocols (TCP/IP)
-* Port scanning and service discovery
-* Vulnerability exploration
-* Linux-based security tools
+* **Offensive Tools & OS:** Kali Linux, Nmap, Linux terminal proficiency
+* **Networking & Protocols:** TCP/IP, DNS, HTTP/S, and network analysis
+* **Systems:** OS fundamentals, process management, and memory allocation
 
 ---
 
-### 🛠 Tools
+### 🛠 Tools & Environment
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-
-Tools used in development workflow:
-
-* Version control with Git
-* Repository management with GitHub
-* Implementation of data structures and algorithms
-* Object-Oriented Programming (OOP)
+* **Containerization (Docker):** Deploying containerized environments for Big Data projects, including NoSQL databases (Cassandra, MongoDB) and Jupyter notebooks.
+* **Virtualization (VirtualBox):** Managing isolated virtual machines to run security labs and penetration testing environments.
+* **Version Control:** Advanced Git workflow management, handling merges, and configuring rebase operations for safe repository collaboration.
 
 ---
 
 # 📂 Projects
+
+## 🛡️ OWASP Top 10 Web Application (In Development)
+🔗 Repository
+https://github.com/Cundari720/Web-Vulnerabilities
+
+Developing two parallel web applications to practically demonstrate web vulnerabilities and their mitigations. 
+* **Vulnerable App:** Intentionally engineered with major flaws based on the OWASP Top 10 (e.g., SQL Injection, XSS, Broken Access Control).
+* **Hardened App:** The secure counterpart, implementing proper input validation, parameterized queries, and modern security headers.
+* **Focus:** Secure coding practices and practical exploit demonstration.
+
+---
 
 ## 📅 Event Management API
 
@@ -111,19 +98,13 @@ Implementation of an **Undo/Redo system in C using stacks**.
 
 ---
 
-# 🔐 Cybersecurity Practice
+# 🏴‍☠️ Security Research & CTF
 
-Participation in **Capture The Flag (CTF)** challenges.
+I actively participate in Capture The Flag (CTF) competitions and practical labs to develop an attacker's mindset and understand how to secure systems effectively.
 
-Topics explored:
-
-* Network analysis
-* Vulnerability scanning
-* Linux security tools
-
-Platform:
-
-* TryHackMe
+* **0xIdp CTF Team:** Active member of my university's cybersecurity league, collaborating on problem-solving and vulnerability exploitation challenges.
+* **OverTheWire (Bandit):** Honing advanced Linux command-line skills, privilege escalation, and system navigation.
+* **TryHackMe:** Completing learning paths focused on network analysis, web application pentesting, and Linux security.
 
 ---
 
