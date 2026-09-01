@@ -134,7 +134,3 @@ https://www.linkedin.com/in/joaomanoelfmn
 
 📧 Email
 [joaomanoelfmn@gmail.com](mailto:joaomanoelfmn@gmail.com)
-
-## 🐍 Contribution Snake
-
-![snake](https://raw.githubusercontent.com/JoaoManoelFMN/JoaoManoelFMN/output/github-contribution-grid-snake.svg)
