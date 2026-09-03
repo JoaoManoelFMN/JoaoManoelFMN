@@ -1,117 +1,85 @@
 # João Manoel
 
-💻 **Computer Science Student** focused on **Cybersecurity & Software Engeneering**.
+**Computer Science Student | Cybersecurity & Software Development**
 
-I enjoy building practical projects to deepen my understanding of **software architecture, security, and low-level systems**.
+I'm a Computer Science student at **IDP, Brasília**, interested in **cybersecurity, systems, networking and backend development**.
 
-🎓 Software Engineering — **IDP (Instituto Brasileiro de Ensino, Desenvolvimento e Pesquisa)**
+I enjoy building practical projects to understand how software works from the inside — from data structures and memory management in C to APIs, Linux environments and web security.
+
+Currently, I'm focused on strengthening my foundations in:
+
+* 🔐 Cybersecurity & secure software
+* 🌐 Networking & Linux
+* ⚙️ Backend development
+* 💻 Systems programming
+
 📍 Brasília, Brazil
+🔗 [LinkedIn](https://www.linkedin.com/in/joaomanoelfmn) · [Portfolio](https://joaomanoelfmn.github.io/) · [Email](mailto:joaomanoelfmn@gmail.com)
 
 ---
 
-# 🚀 Tech Stack
+## Featured Projects
 
-### 💻 Languages
+### 🛡️ OWASP Web Vulnerabilities Lab
 
-| Category | Languages |
-| :--- | :--- |
-| **Systems & Low-Level** | C, C++ |
-| **Backend & Scripting** | Java, Python, Shell Script |
-| **Web Development** | TypeScript, JavaScript |
-| **Database** | SQL |
+Practical study of common web vulnerabilities through a vulnerable application and a hardened counterpart.
 
----
+**Focus:** SQL Injection, XSS, Broken Access Control, input validation, secure coding and HTTP security.
 
-### ⚙️ Backend Development
-
-* **Frameworks & ORMs:** NestJS, Prisma
-* **Databases:** PostgreSQL
-* **Architecture:** RESTful API design, relational database modeling, and secure authentication flows
+[Repository](https://github.com/Cundari720/Web-Vulnerabilities)
 
 ---
 
-### 🔐 Security & Systems Fundamentals
+### 📅 Event Management API
 
-* **Offensive Tools & OS:** Kali Linux, Nmap, Linux terminal proficiency
-* **Networking & Protocols:** TCP/IP, DNS, HTTP/S, and network analysis
-* **Systems:** OS fundamentals, process management, and memory allocation
+REST API developed with NestJS for event and user management.
 
----
+**Stack:** TypeScript · NestJS · Prisma · PostgreSQL
 
-### 🛠 Tools & Environment
+The project involved API design, business logic and relational database modeling.
 
-* **Containerization (Docker):** Deploying containerized environments for Big Data projects, including NoSQL databases (Cassandra, MongoDB) and Jupyter notebooks.
-* **Virtualization (VirtualBox):** Managing isolated virtual machines to run security labs and penetration testing environments.
-* **Version Control:** Advanced Git workflow management, handling merges, and configuring rebase operations for safe repository collaboration.
+[Repository](https://github.com/IDP-Student-Brack-Team/IEEE-API)
 
 ---
 
-# 📂 Projects
+### 🔄 Undo/Redo Stack Simulator
 
-## 🛡️ OWASP Top 10 Web Application (In Development)
-🔗 Repository
-https://github.com/Cundari720/Web-Vulnerabilities
+A command-line application developed in C to simulate an Undo/Redo system using stack-based state management.
 
-Developing two parallel web applications to practically demonstrate web vulnerabilities and their mitigations. 
-* **Vulnerable App:** Intentionally engineered with major flaws based on the OWASP Top 10 (e.g., SQL Injection, XSS, Broken Access Control).
-* **Hardened App:** The secure counterpart, implementing proper input validation, parameterized queries, and modern security headers.
-* **Focus:** Secure coding practices and practical exploit demonstration.
+**Focus:** data structures, pointers, memory management and application state.
+
+[Repository](https://github.com/JoaoManoelFMN/c-stack-undo-redo)
 
 ---
 
-## 📅 Event Management API
+## Cybersecurity Practice
 
-🔗 Repository
-https://github.com/IDP-Student-Brack-Team/IEEE-API
+I regularly practice cybersecurity through:
 
-Backend API for **event and user management**.
+* **0xIdp CTF League**
+* **HackTheBox**
+* **OverTheWire**
+* **TryHackMe**
+* A range of hands-on cybersecurity laboratories covering Red Team, Blue Team, digital forensics, and related fields.
 
-**Tech Stack**
-
-* NestJS
-* Prisma ORM
-* TypeScript
-* PostgreSQL
-
-**Features**
-
-* REST API architecture
-* Business logic implementation
-* Database modeling
-* Event and user management
+My current areas of study include **Linux, TCP/IP, HTTP, DNS, vulnerability analysis and secure software development**.
 
 ---
 
-## 🔄 Undo / Redo Stack Simulator
+## Technical Skills
 
-🔗 Repository
-https://github.com/JoaoManoelFMN/c-stack-undo-redo
+**Languages:** C, C++, Python, Java, TypeScript, JavaScript, SQL, Shell
 
-Implementation of an **Undo/Redo system in C using stacks**.
+**Backend:** NestJS, Prisma, PostgreSQL, REST APIs
 
-**Features**
+**Security & Systems:** Linux, Kali Linux, networking, Wireshark, Nmap, virtualization
 
-* Stack-based state control
-* Memory management in C
-* Simulation of application state versioning
-* Data structures implementation
+**Tools:** Git, GitHub, Docker, VirtualBox
 
 ---
 
-# 🏴‍☠️ Security Research & CTF
+## Education
 
-I actively participate in Capture The Flag (CTF) competitions and practical labs to develop an attacker's mindset and understand how to secure systems effectively.
-
-* **0xIdp CTF Team:** Active member of my university's cybersecurity league, collaborating on problem-solving and vulnerability exploitation challenges.
-* **OverTheWire (Bandit):** Honing advanced Linux command-line skills, privilege escalation, and system navigation.
-* **TryHackMe:** Completing learning paths focused on network analysis, web application pentesting, and Linux security.
-
----
-
-# 📫 Contact
-
-💼 LinkedIn
-https://www.linkedin.com/in/joaomanoelfmn
-
-📧 Email
-[joaomanoelfmn@gmail.com](mailto:joaomanoelfmn@gmail.com)
+**B.S. in Computer Science**
+IDP — Brasília, Brazil
+2025–2028
